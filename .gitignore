@@ -1,0 +1,16 @@
+
+# Python environment files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Private Google login files and local settings
+.env
+credentials.json
+token.json
+
+# Contains personal job application and email history
+careerloop.db
+
+.DS_Store
